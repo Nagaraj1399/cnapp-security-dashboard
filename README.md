@@ -4,7 +4,7 @@
 
 ## Live Preview
 
-Try the deployed application in your browser: **[Open the live dashboard](https://cnapp-security-dashboard.vercel.app)**
+Try the deployed application in your browser: **[Open the live dashboard](https://my-dashboard-eight-beta.vercel.app)**
 
 ## Features
 
