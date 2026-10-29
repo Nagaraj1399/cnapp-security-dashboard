@@ -4,9 +4,7 @@
 
 ## Live Preview
 
-Try the deployed application in your browser: **[Open the live dashboard](<YOUR_VERCEL_DEPLOYMENT_URL>)**
-
-Replace `<YOUR_VERCEL_DEPLOYMENT_URL>` with the Vercel deployment URL once your app is deployed.
+Try the deployed application in your browser: **[Open the live dashboard](https://cnapp-security-dashboard.vercel.app)**
 
 ## Features
 
