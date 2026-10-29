@@ -2,6 +2,12 @@
 
 > A modern, responsive CNAPP & Cloud Security Dashboard built with React, Zustand, and Tailwind CSS featuring dynamic widget management, custom widget creation, search functionality, and localStorage persistence.
 
+## Live Preview
+
+Try the deployed application in your browser: **[Open the live dashboard](<YOUR_VERCEL_DEPLOYMENT_URL>)**
+
+Replace `<YOUR_VERCEL_DEPLOYMENT_URL>` with the Vercel deployment URL once your app is deployed.
+
 ## Features
 
 - View cloud security widgets grouped by category.
